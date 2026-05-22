@@ -10,5 +10,3 @@ reels1.json:9
 reels1.json:11
 reels1.json:8
 reels1.json:13
-
-reels1.json:10
